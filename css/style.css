@@ -479,6 +479,7 @@ body {
       font-size: 20px;
       color: #ababab; }
     .youtube-slider .descriptions-info .desc-line .line-name {
+      word-wrap: break-word;
       text-align: center;
       font-size: 14px;
       width: 100%; }
@@ -486,6 +487,7 @@ body {
 .youtube-slider .slide-descriptions {
   padding: 20px 10px; }
   .youtube-slider .slide-descriptions .descriptions-text {
+    word-wrap: break-word;
     font-size: 14px;
     line-height: 1.4; }
 
